@@ -1,0 +1,18 @@
+header>nav{
+    position: sticky;
+    top: 0px;
+}
+div h2{
+    text-align: center;
+}
+div h1{
+    text-align: center;
+    margin-top: 19px;
+}
+.container>.card{
+    transition: 0.6s;
+    transition-duration: 0.6s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+    transition-property: all;
+}
